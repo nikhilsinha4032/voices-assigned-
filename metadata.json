@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Local",
+  "description": "Private, offline-first personal assistant for daily tasks, routines, emotional voice interaction, and local smart home control on iOS, Android, and desktop.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
